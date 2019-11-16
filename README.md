@@ -1,3 +1,3 @@
 # Test_GitHub_2
 This is my 1st repository.
-This. 90_PC
+This. 90_server
