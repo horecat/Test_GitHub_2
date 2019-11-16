@@ -1,3 +1,3 @@
 # Test_GitHub_2
 This is my 1st repository.
-This. 87_PC
+This. 87
