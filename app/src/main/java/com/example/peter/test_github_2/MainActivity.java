@@ -9,5 +9,5 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {  //
         super.onCreate(savedInstanceState);   //
         setContentView(R.layout.activity_main);   //  //
-    }   // //zmena 144_vetva1
+    }   // //zmena 145_vetva2
 }
